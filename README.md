@@ -58,7 +58,7 @@ Este repositório contém a **Atividade 2** da disciplina, que aborda o **planej
 
 ## 🔗 Links Importantes  
 - 📊 [Planilha de Oportunidades (Excel)](./Planejamento_De_Carreira.xlsx)  
-- 🌐 [Postagem no LinkedIn (a ser publicada pelo aluno)]([https://linkedin.com](https://www.linkedin.com/posts/jheyson-silva-siqueira_planejamento-de-carreira-e-aprendizado-activity-7363678385710989312-Pnzt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC-_tHkBLphK0uCNlqyRBd1d0ysFsk5M5W4))  
+- 🌐 [Postagem no LinkedIn (a ser publicada pelo aluno)]([https://linkedin.com](https://www.linkedin.com/posts/jheyson-silva-siqueira_planejamento-de-carreira-e-aprendizado-activity-7363678385710989312-Pnzt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC-_tHkBLphK0uCNlqyRBd1d0ysFsk5M5W4)  
 - 💻 Repositório GitHub contendo este material  
 
 ---
