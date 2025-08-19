@@ -3,7 +3,7 @@
 Este repositório contém a **Atividade 2** da disciplina, que aborda o **planejamento de carreira e aprendizado contínuo**.  
 
 📂 O repositório está organizado da seguinte forma:  
-- `Oportunidades_TI_Curitiba.xlsx` → Planilha com análise de **5 vagas de Desenvolvedor Back-End Júnior**, incluindo hard skills, soft skills, certificações e faixa salarial.  
+- `Planejamento_De_Carreira.xlsx` → Planilha com análise de **5 vagas de Desenvolvedor Back-End Júnior**, incluindo hard skills, soft skills, certificações e faixa salarial.  
 - `README.md` → Documento com o **plano de carreira (roadmap)** estruturado em curto, médio e longo prazo.  
 
 ---
@@ -57,7 +57,7 @@ Este repositório contém a **Atividade 2** da disciplina, que aborda o **planej
 ---
 
 ## 🔗 Links Importantes  
-- 📊 [Planilha de Oportunidades (Excel)](./Oportunidades_TI_Curitiba.xlsx)  
+- 📊 [Planilha de Oportunidades (Excel)](./Planejamento_De_Carreira.xlsx)  
 - 🌐 [Postagem no LinkedIn (a ser publicada pelo aluno)](https://linkedin.com)  
 - 💻 Repositório GitHub contendo este material  
 
